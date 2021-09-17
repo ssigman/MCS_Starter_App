@@ -1,8 +1,7 @@
 {
-  "name": "ssigmanweb",
+  "name": "mcs_starter_app",
   "version": "0.0.1",
-  "description": "Departmental web site for testing on the departmental server.",
-  "main": "server.js",
+  "description": "Starter Code for MCS server node apps.",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
