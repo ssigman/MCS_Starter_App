@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ssigman/ssigmanWeb.git"
+    "url": "https://github.com/ssigman/MCS_Starter_App.git"
   },
   "author": "S. Sigman",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE.txt",
   "bugs": {
-    "url": "https://github.com/ssigman/ssigmanWeb/issues"
+    "url": "https://github.com/ssigman/MCS_Starter_App/issues"
   },
-  "homepage": "https://github.com/ssigman/ssigmanWeb#readme",
+  "homepage": "https://github.com/ssigman/MCS_Starter_App#readme",
   "dependencies": {
     "express": "^4.17.1",
     "path": "^0.12.7"
